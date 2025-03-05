@@ -1,3 +1,3 @@
 ﻿  progress.cpp
-c:\users\долгова елена\source\repos\progress\progress\progress.cpp(31): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+c:\users\долгова елена\source\repos\progress\progress\progress.cpp(42): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
   progress.vcxproj -> C:\Users\Долгова Елена\source\repos\progress\Debug\progress.exe
